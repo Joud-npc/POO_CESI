@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_CESI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08df704e0a5bfa383f2a5c942094bae44a06667")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f67146cb622053425e5cee39ef43cddeb01f41")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_CESI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_CESI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
