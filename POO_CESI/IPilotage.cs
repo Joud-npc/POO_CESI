@@ -1,4 +1,4 @@
-namespace Animals;
+namespace POO_CESI;
 
 public interface IPilotage
 {
